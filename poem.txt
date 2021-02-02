@@ -11,3 +11,9 @@ they are simple yet sly:
 
 Layers of abstraction yield
 complex forms when pierced and peeled.
+
+Addition lies under multiplication,
+defining him as repeated summation.
+
+Then he defines primes as the atoms of integers,
+for when multiplied, they give numbers their signatures.
