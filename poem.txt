@@ -1,4 +1,4 @@
-Primes
+Primes and the numbers
 
 The primes,
 through times,
@@ -17,3 +17,6 @@ defining him as repeated summation.
 
 Then he defines primes as the atoms of integers,
 for when multiplied, they give numbers their signatures.
+
+Is any number that we count banal,
+and lacking in a feature one miught note?
